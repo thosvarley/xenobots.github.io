@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : #
 name                     : *name 
 description              : "Art and science on the boundary between life and robotics."
-url                      : "https://xenobots.github.io"
+url                      : "https://xenobots_v2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : thosvarley/xenobots.github.io
+repository               : thosvarley/xenobots_v2.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/lattice_white.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
