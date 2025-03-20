@@ -23,7 +23,7 @@ subtitle                 : #
 name                     : *name 
 description              : "Art and science on the boundary between life and robotics."
 url                      : "https://thosvarley.github.io/xenobots.github.io/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "xenobots.github.io/"
 repository               : thosvarley/xenobots.github.com
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
